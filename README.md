@@ -3,6 +3,7 @@
 [![Goreport status](https://goreportcard.com/badge/github.com/flashbots/mempool-dumpster)](https://goreportcard.com/report/github.com/flashbots/mempool-dumpster)
 [![Test status](https://github.com/flashbots/mempool-dumpster/actions/workflows/checks.yml/badge.svg?branch=main)](https://github.com/flashbots/mempool-dumpster/actions?query=workflow%3A%22Checks%22)
 [![Docker hub](https://badgen.net/docker/size/flashbots/mempool-dumpster?icon=docker&label=image)](https://hub.docker.com/r/flashbots/mempool-dumpster/tags)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Falialobidm%2Fmempool-dumpster.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Falialobidm%2Fmempool-dumpster?ref=badge_shield)
 
 Archiving mempool transactions in [Parquet](https://github.com/apache/parquet-format) and CSV format.
 
@@ -336,6 +337,9 @@ make fmt
 - Data: [CC-0 public domain](https://creativecommons.org/publicdomain/zero/1.0/)
 
 ---
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Falialobidm%2Fmempool-dumpster.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Falialobidm%2Fmempool-dumpster?ref=badge_large)
 
 # Maintainers
 
